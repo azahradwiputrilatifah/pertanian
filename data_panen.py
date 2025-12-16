@@ -171,3 +171,4 @@ print("PROGRAM SELESAI")
 print("=" * 50)
 
 print("data panen")
+print("baru lagi")
