@@ -169,3 +169,5 @@ print(f"Total Panen Kedelai: {total_kedelai} kg")
 print("\n" + "=" * 50)
 print("PROGRAM SELESAI")
 print("=" * 50)
+
+print("data panen")
